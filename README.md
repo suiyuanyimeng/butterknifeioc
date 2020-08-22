@@ -6,7 +6,7 @@
 
 ### 如何使用
 
-1、首先，打开IntelliJ IDEA，创建一个一个新项目，选择IntellJ Platform Plugin。
+1、首先，打开IntelliJ IDEA，创建一个新项目，选择IntellJ Platform Plugin。
 
 ![](./pic/a3.jpg)
 
