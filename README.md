@@ -2,6 +2,8 @@
 
 自己写的一个超简单的Android视图的字段和方法绑定。基于此篇章，你可以快速的制作或者修改成任何自己想要的Android视图的字段和方法绑定。
 
+[相关的代码说明在这里](https://www.cnblogs.com/springl/p/9617199.html)
+
 此版本是给Butterknife使用的，如果还有人使用xutils框架，需要给以前的xutils框架使用，只需要简单的修改即可。
 
 ### 如何使用
